@@ -1,16 +1,5 @@
-# bmi_ui
+# BMI Calculator
 
-A new Flutter project.
+Designing the UI of a BMI Calculator Application with Flutter!.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cover BMI Calculator-min](https://github.com/RaffyJO/BMI-Calculator/assets/116251880/18567416-9864-4535-9f6a-b884420cd5ab)
